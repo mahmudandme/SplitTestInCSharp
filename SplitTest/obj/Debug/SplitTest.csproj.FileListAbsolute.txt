@@ -1,0 +1,6 @@
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\bin\Debug\SplitTest.exe.config
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\obj\Debug\SplitTest.csprojResolveAssemblyReference.cache
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\bin\Debug\SplitTest.exe
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\bin\Debug\SplitTest.pdb
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\obj\Debug\SplitTest.exe
+c:\users\mitch\documents\visual studio 2013\Projects\SplitTest\SplitTest\obj\Debug\SplitTest.pdb
